@@ -1,1 +1,8 @@
-
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode: https://doit.vlsm.org/ETC/logCodes.txt
+ZCZC W00 60 L01 Scele Course Enroll and Info
+ZCZC W00 30 L31 Downloading VirtualBox
+ZCZC W00 90 L02 First Class, Course Plan
+ZCZC W00 90 L02 Week 0 and 1 slides
+ZCZC W00 45 L10 Weekly Assignment (except reading for now)
