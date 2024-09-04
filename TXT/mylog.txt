@@ -6,3 +6,9 @@ ZCZC W00 30 L31 Downloading VirtualBox
 ZCZC W00 90 L02 First Class, Course Plan
 ZCZC W00 90 L02 Week 0 and 1 slides
 ZCZC W00 45 L10 Weekly Assignment (except reading for now)
+ZCZC L02 90 Monday Class
+ZCZC L09 120 Debian Installation, Guest, SSH, Github
+ZCZC L01 15 Pop Quiz
+ZCZC L11 60 Assignment #01
+ZCZC L02 90 Wednesday Class
+ZCZC L11 30 Assignment #01 finishing 
