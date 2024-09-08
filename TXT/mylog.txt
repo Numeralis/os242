@@ -11,4 +11,4 @@ ZCZC L09 120 Debian Installation, Guest, SSH, Github
 ZCZC L01 15 Pop Quiz
 ZCZC L11 60 Assignment #01
 ZCZC L02 90 Wednesday Class
-ZCZC L11 30 Assignment #01 finishing 
+ZCZC L11 60 Assignment #01 finishing 
