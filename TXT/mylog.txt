@@ -1,16 +1,18 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
-ZCZC W00 10 L05 Weekly Quiz 2
-ZCZC W02 L02 90 Classroom
-ZCZC W02 L05 20 Weekly Quiz 2
-ZCZC W02 L12 120 Assignment #02 and Pop Quiz
-ZCZC W01 180 L02 Classroom
-ZCZC W01 20 L05 Weekly Quiz 1
-ZCZC W01 120 L09 Debian Installation, Guest, SSH, Github
-ZCZC W01 120 L11 Assignment #01 and Pop Quiz
-ZCZC W00 60 L01 Scele Course Enroll and Info
-ZCZC W00 15 L05 Weekly Quiz 0, SEB error
-ZCZC W00 180 L02 Classroom
-ZCZC W00 60 L10 Assignment #00 and Pop Quiz (except reading for now)
-ZCZC W00 30 L31 Downloading VirtualBox
+ZCZC W03 99 L09 Weekly Assignment
+ZCZC W03 20 L01 SCELE/Discord related
+ZCZC W03 99 L02 CLASSROOM/ZOOM meetings related
+ZCZC W02 90 L02 Classroom
+ZCZC W02 20 L05 QUIZ
+ZCZC W02 99 L12 Weekly Assignment
+ZCZC W01 99 L02 CLASSROOM/ZOOM meetings related
+ZCZC W01 20 L05 QUIZ
+ZCZC W01 99 L09 Weekly Assignments
+ZCZC W01 99 L62 Install Debian Guest
+ZCZC W00 15 L05 QUIZ
+ZCZC W00 99 L02 CLASSROOM/ZOOM meetings related
+ZCZC W00 60 L09 Weekly Assignments
+ZCZC W00 60 L01 SCELE
+ZCZC W00 30 L61 Install VirtualBox
