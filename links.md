@@ -15,3 +15,9 @@ permalink: LINKS/
 -[Git ssh timeout](https://stackoverflow.com/questions/15589682/how-to-fix-ssh-connect-to-host-github-com-port-22-connection-timed-out-for-g)
 
 -[Shell Script Examples](https://www.macs.hw.ac.uk/~hwloidl/Courses/LinuxIntro/x864.html)
+
+-[How to Mount and Unmount File Systems in Linux](https://linuxize.com/post/how-to-mount-and-unmount-file-systems-in-linux/)
+
+-[C Pointers](https://www.w3schools.com/c/c_pointers.php)
+
+REV: 22/09/2024
