@@ -20,4 +20,6 @@ permalink: LINKS/
 
 -[C Pointers](https://www.w3schools.com/c/c_pointers.php)
 
-REV: 22/09/2024
+-[How to run a binary file in Linux](https://stackoverflow.com/questions/9477157/how-to-run-binary-file-in-linux)
+
+REV: 06/10/2024
